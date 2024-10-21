@@ -4,7 +4,13 @@
 
 This project involves analyzing call center data using Power BI for visualizations, Excel for data analysis, and PowerPoint for presenting insights. The objective is to gain actionable insights into call center performance, customer satisfaction, and operational efficiency.
 
-![20210422_194009-01](https://github.com/user-attachments/assets/64cc58a2-72c8-47ee-89c2-ff4d8edcb855)
+
+![Screenshot 2024-10-21 173257](https://github.com/user-attachments/assets/4ec8a105-0bcc-4bcc-acde-2c441ec4eac5)
+
+![Screenshot 2024-10-21 173409](https://github.com/user-attachments/assets/1e0b654c-79c2-41be-a4f2-ab8b1b72d78e)
+
+![Screenshot 2024-10-21 173445](https://github.com/user-attachments/assets/28f9c8b3-03bf-4818-92c4-9c0f9e7782cf)
+
 
 *Features*
 
